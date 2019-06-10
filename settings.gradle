@@ -1,1 +1,1 @@
-include ':dice-roller-app'
+include ':app'
